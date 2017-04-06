@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tagalpha/nodejs-heroku.git"
+    "url": "git+https://github.com/CamyUp/repository-test-heroku.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tagalpha/nodejs-heroku/issues"
+    "url": "https://github.com/CamyUp/repository-test-heroku/issues"
   },
-  "homepage": "https://github.com/tagalpha/nodejs-heroku#readme",
+  "homepage": "https://github.com/CamyUp/repository-test-heroku#readme",
   "dependencies": {
     "bluebird": "^3.5.0",
     "body-parser": "^1.17.1",
